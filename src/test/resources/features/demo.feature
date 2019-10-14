@@ -1,7 +1,13 @@
-@Regresion
-Feature: Prueba
-  @RunnerTags
-  Scenario: Prueba
-    Given que Yeison quiere realizar test
-    When el diligencia
-    Then el deberia ver el resultado
+
+#language: es
+
+Característica: Reservar vuelo
+  Como usuario web
+  Desea ingresar a expedia
+  A reservar un vuelo
+@RunnerTags
+
+  Escenario: Reservar primer vuelo
+    Dado que el usuario quiere ingresar a la pagina de expedia
+    Cuando el ingrese el podra reservar el vuelo que deseee
+    Entonces el deberia tener una efectiva reserva
