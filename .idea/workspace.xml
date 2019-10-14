@@ -1,0 +1,1647 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="badf256d-455a-4bef-9322-e874912bc22b" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/4.10.2/fileChanges/last-build.bin" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/4.10.2/fileHashes/fileHashes.bin" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/4.10.2/fileHashes/fileHashes.lock" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/co/com/test/runners/RunnerTags.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/java/main/co/com/test/questions/LaRespuesta.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/java/main/co/com/test/tasks/Abrir.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/java/main/co/com/test/tasks/Traducir.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/java/main/co/com/test/userinterface/GoogleTraductorPage.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/java/test/co/com/test/runners/RunnerTags.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/java/test/co/com/test/stepdefinitions/TraductorGoogleStepDefinition.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/00ffa90fa84ed482497e0ba90bdf118d4f528b6d90232d6f88ca4961174e7bd3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/0165439bc23ba3428e40626c03556d0558cdd30a3bb9d8e19c88751ab6dbf004.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/04444e8d28c89ed7ef72576951daf6143821ff8b78b790ab031d6f9059dc14cb.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/0b226b763e6af76448418ba8822488f91502be9af80ab75f576089000c3d12fb.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/0cde23b8380fcaad10eb113c5ca6c89d922cb868a215638a4501e843b3faafa9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/0f05c6a65591843a62223ee3fcf48a9fae82a5a5f3d2555ba1715ffd8ff557ea.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/10007109cf0bb73095b5b4ea819a5c4f79e91935cd82dcb3c2690f55db280cde.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/105f54b5178ff87b42401f2eeb83c0b70eeb7b6fd5e8e710e78772d3a94fb616.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/12df50605b08769dab128b6a844a6741ee2704974c0d4d605710d08b587a40f0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/12f7c2d9cea2126daff9779094f892f801eeb0ae50d3f63898cdcd86b94bea68.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/16ded6d70e2c0193a3d83751c9507ab9aa38e909712e89327e7586bdb2ec2b32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/17cc75ab4b5a357ea0f8318cbfcc818184c5b93df5a9c3ecdc886cd2a5733b5e.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/17f483127f51c5dd683229972ab7f4cc408f37661004acd89479a31eb548efa9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/19c18cf3db2601db75c5a12e4d018a89a749319b5df70667b9e5e6237abac76d.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/1d3b0658e0d88aba117775c9209a4b49a74cb8936da03e3fa10b2c5825919777.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/1d7fc80575d3ea56aaa1733946afde1431aceea617581328b6fba7a79ea91363.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/1e5150d9bb6a8507313a9e1f15a9e99a33a9131ce65b87348c773823075b4b32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/1ec4d4e54602d70d8554cf032bb9cab9cee42cb5b7d60209f6533d4c0a77d90d.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/24a2d723fa9076feaa9a6142132a87a072f6ac104856c89a09216c4aaa004e84.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/25a6d1d9de614e2de2f60742e6a90413c60bb912882f67d0eb90e6af6623131f.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/27702970cd0fd52fa9266d7b9a2cc25481d87eeb3c72e0dda29104ed3fe352d9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/28148961601cc26cc11dfb796b58426e2cda58f15187e72e75feeb038f74020b.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/29600c0f7802be9892f852c91d8a8704c700ba1d0e189b823d9e06f93d0641f2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/2ad2f678553c43d041dfb0e3d273f862b4df263225d91dde56c6d08e62eb2b5f.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/2d50d92715a576fdd17051e83de0f5e007eacdd99eaadc094fe925356666fc68.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/2de47ce60397e8e3180fa2dc89214b26a1181d9c81aa03d2920bb41675e44d99.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/2eacf26b5ff284be65efbef2b57227ae786d5f66beea5afa4d9b4631b1fe8c8c.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/32002157373d58ec621b2717a9cedb0b3c561c7f0fc6d990b6de21e15942b5bd.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/3646fc1ef1900e7065c3a48f4640028f52867bd4d6c7d5b765035fc8909178a2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/3c881e1c6dda6d849fb835e349fb4597b16af307aff7c7e1a2d87e18c98995f6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/3d6cb9e7b627d968fe6af0cc8844e02033414a780f37c4a87e8269bfe7682439.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/3fb755cdef50c7e110ca1c1f16415151c9f129faafa30e4317718cc5ca4c4ec4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/4194f08d919564cdeff1d10838a48557a082c4a3c4e6a3823095f20d8c3d1e7f.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/41d2b744a0cbeadaed7274c67f23e942a5de5140a3e00bf254a22145f598c4cd.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/437d41f1b9d4c60180160679a21e25495ae7a4651cab16e9cbde00af9460f8b2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/44a26474e196f643519a980a450303e2e6812f3baeaf5234e9344aa61d8d0251.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/47c3a95f36f0141cdce57c509266c1318beab6f7d95e5055be8238018b2ff5f2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/47d47779c1e8f587222311027af7a667c7ae9e4510bf3b6af25be1a4eb7a4486.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/49f7ffe055fcb0d331c087256ea020a000d4e89d19be90adbed7e205d3bb5f10.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/4a0c6ec3272b62b7a3629e04d9c42b7cf4b00a21dc9850c5b23cf3396a2ead00.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/4b5172a4a3be15ef6348a2a8c42b07faba6f2dcd84b0f2d5a3d1bfa21c5a5fb1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/4cae146ded3ebaf91450faa89ceecf1124c0d26f24157fd42ec4459835e00bd4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/4eb38cac421b4a51741668d6eaf51981f4d0e1973c9315701adf722ee6872172.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/4f24e5f96e0c0a478fbb9a1ce42ba8e90ebfb8ba3e7fd488fbc159d5d3a2cbf2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/506baad959f83f10a6a95afa03956c5d69aa20e1cad27569b08d45e0b630ad43.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/537e45eff08d474c90c5c8b1793e0221ea61f557b898b2f2ead0ec0d64cb7030.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/545b98cba22a13b20d27f552736a17ad4bdd2d3fb2a815154d9760a2bfb15360.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/54a6b132f29bfcc161fc6b757cf9a28985867f4ceaa55ecbd5040fd891eda424.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/54c0cf63c83bfbb4ee29eea527a9fa58b5b9fc7ffe27458053b279f6f5c3b403.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/5a4c1ef6aaaa356657b4eec96889d15c1309b4c2480022daa0986dc3022fd03b.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/5c02df911a2f99f50d20f27fa813a90f48f634afe9c1e5fbcf9bf2f070a8b05d.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/5cff4c64f5f3714a94dffb1c4b24ab33c52322967849bdf594375d1176cdc8e7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/5ecf1f1f44e2d52e337b88e5db6729b41bb12213ce836c0cd071196f53afa9ea.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/61007d235334b592146d8e7bf24aee3cbee0ef23074345c493d6c85d8048e466.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/61131adc864a6fc62060b236f74809f74dbaf11eca1e6a25aa65567b4d57e5b0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/636b78c02e0d75a2f107dd6ea8ac295546a1c971cde578339b1200398215b2cd.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/6913d7e1cd129ef0c20b6521727311c3e90dd2d7b4cf3b37178329ada3a05c97.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/693a1997a9b10c58e0fc5f1ae46dcde9267c869076c428552de38479f27a219c.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/6e75c09074d05f299b645e25d559695e667dad820502e5998cda1c939510db66.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/7182ad25caf2f6af2225b31fbf26e5ec480676fb7614308c6ca75338f93f9cb7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/7285bbe3a400c95fe412ac4a0dc44b6166703516bfefa365d97e0047386d87c7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/750ae4274d70d0e68bf708ed0cb107bf8db8791abd0896136c6b8f24636f877e.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/7609bebc086177b77b47a2aaee118a2f4569b7eabc56222af5bb332bd9a209ca.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/769325480f0f28a3f202e6a8c5c06f935b15519deec7804f1c49316e17fb0973.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/7a18b5e5d01ccb93af274e6da3f808e1384a14f57c457d740dce453e71a39e00.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/7c8f46fe260670c8f93b4146374b6449fbea8ec186087b63e9790be8e0c96a19.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/7ca585f8b344c36b18f6a75b76db858f2be70027963c171c49056edb92bb9416.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/7e8177443f82171d04adc98fd0203bcb63329579db7c0478f1803ea799bd3b1b.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/7ef58375085d06966f0cc8e8e52e4b11707e412d66a768744ad226795a95f7ef.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/81641dc3961f5ecc0af337adf2d0d9dc3f928630e81b73aeb176191efbc11e18.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/82de020c83f488c28e5a34502dd6f63a90136cf3b16fd3272e09a1c6acee50d7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/83c00dab1f3e4849eeeaea463217256579e834efeb1c9f55c62eaf2ae3d67928.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/85673974e6a0dea720d0bd199f2caee9a186b27aaaf82732c81b5aa93fbf92fe.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/89d6e14e2e247e7daa815f9190b2134a0790beddfb71a1ab043c2feec93f7bb9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/8e4013f271de62ef7ebade2ac0e043cca83e79fdcc9106f72d208d1eb4a36da0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/903b8440b774c2ff9e1a1ae24e59c9c0602afa52d7a5a430ba1d4467075814b9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/905ffb106dade01df5e258ea9fa3b1cc0928458ad33640f01a738f598b014b4d.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/918166c24a2d5ac6828d284d8da4eb3522bc70b6484008f07a3b7b73d7d962b9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/9192b82679cbf9ea2bb26bdf4a155cc6b6c2ba58dd55bfa897f3b4693b524aaa.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/9416c6f3eb2f66dadac596bcbdd83b1e1eba011ff94e553e40f4be72d2af0ec8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/973fa1d8af369fa64f15aeef738bde067b511824095945455aa87cefda0c2623.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/983dd30c9b95032b7b2b7462c06db2e8bb3d2b0500e9de1a6cd549cd42fa014b.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/9a6acdd372026c8571ead1e36941c92a7204db904c15902ef172d74ece00676e.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/a0d17ca78b59724e6770becbb7b0cecf51189882f07ab1badb2dd8ddd96ed763.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/a55951fbfe98af4fe14111fa17ecdaf6d9439041351d9a3379fb80919ac5d53a.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/a5f176426a5327d5dcc5b3d7ed8345f16a2d40540e23e7484e5197e6b29cb6a9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/a7f904e66cb46966853fff4637ee6830a087a4ddca74568ba8af2e759571c32a.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/ab44967b37a3488a334af2cd39df837f924e1efb32c20cc89fbe8b05f461ebe6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/ad622c9cc654fae032cccac27f5f82479d499705c8093000f681d533bf2203a0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/addf92a2b39fd75a72b3624e7b4c50840dcdef9213f110c4b758638470a8517c.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/af6ca688f1ddb371b02c02fe00412c40de15431f2b8865f105925c4477430bc4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/android-icon-144x144.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/android-icon-192x192.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/android-icon-36x36.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/android-icon-48x48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/android-icon-72x72.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/android-icon-96x96.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/apple-icon-114x114.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/apple-icon-120x120.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/apple-icon-144x144.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/apple-icon-152x152.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/apple-icon-180x180.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/apple-icon-57x57.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/apple-icon-60x60.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/apple-icon-72x72.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/apple-icon-76x76.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/apple-icon-precomposed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/apple-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/b18c76e1dc675c195cad7211c596b4b87d291b7023b8dfbd80e6bdb2d3f01ef5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/b3c1b3a63a87c2766ced05acd2f62e906f9f873f436b8a340b4331efccdc8101.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/b5a42e2c609b7d11bbd60b537ac3e37af4c4308bd44d69aa2bf086f3173003cb.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/bf902a1b5a9ba8adcbd000553c3e61d13817c84584820edfbc3f3266d56b2e26.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/bootstrap/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/bootstrap/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/c2bbc931969728ae8feb50471dda14c86785269e0863acfa22b23abbcbec6130.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/c369bb9ecde6c212e5634848fca821bc921ef9a02c677ebcf6e5649de0a0e20d.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/c64b6e853e19a557e7d5d98c4d46b7dc7969f1addb47f3c468ffd51a6d491eb6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/ca053c7c46da1ee524fff2a8929a13ffa036de169e8b371449bd5763df32592a.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/ca71bedf60b496b173ff1494a57f74d44722901a7fb475c388436a3711267cfa.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/cca4349bc1907f8f58214095209eb76ba32edbe6553a0d333de8b85b59e20e71.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/cdb5178031c895004fc568dd31b0e321fcbcc4d77f3446ed06b40fbfa96442f8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/cea8efa33f76c362609e85ab672127b786f6deb54cb152f41bd828811a595007.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/cfbf8b478d5afc1b9b2d0d835db2ae83e50bd5518eb284ed77cdb1bf2090e15f.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/d16648fc1f74438cc1857be5d21b819de65db0dac46e02328e098b346d5ce588.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/d3ba65b457afa88eb152bf86a66cd43d4ac169376de4312bd7ad735dbed1ebcb.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/d4e676d9e680d8e31ba557803642090be6bf88710e6191e341fcd6c0f02658d3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/d5fd65ea0488d748275d2fbb38f161475e9c09d61b8ec6914ca22a62f275832c.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/d729abfbb1920f80ce4aa1f8cd3271ce902a700d7e7f51a0c487adf1b61319f8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/d83a538bd6cf2f7d43a01c49df38ef299f62827a516c1253632ee03ea12a5ba5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/datatables/1.10.4/media/images/Sorting icons.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/datatables/1.10.4/media/images/back_disabled.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/datatables/1.10.4/media/images/back_enabled.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/datatables/1.10.4/media/images/back_enabled_hover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/datatables/1.10.4/media/images/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/datatables/1.10.4/media/images/forward_disabled.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/datatables/1.10.4/media/images/forward_enabled.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/datatables/1.10.4/media/images/forward_enabled_hover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/datatables/1.10.4/media/images/sort_asc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/datatables/1.10.4/media/images/sort_asc_disabled.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/datatables/1.10.4/media/images/sort_both.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/datatables/1.10.4/media/images/sort_desc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/datatables/1.10.4/media/images/sort_desc_disabled.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/e1ef6ae5a15f97d65faed59b566b0d2cd0e222f2c00aac14cd4c831d0995ff60.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/e2344ba0d81766edf0bd6c9b502979fee01eb7d030b1e20a3b0e0c465e8c361f.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/e25b9f0227cf86b041784cac9e922648fafe848e5d60293b4f4b7e0e11bb102f.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/e2d4b9597fa9dce7221c8417e8baef1ce3bf638bfc7900898296ea3b2baba094.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/e46595ec7dc410fdb3a50ea73b24589c493b13be9fee5978dcd568226292ba71.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/e4f3fb7296193196cb2fd260ab4bbe84a99d1c6562028b9cc7e3f893f2ed24e3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/e52a7cf040ea954edd2e39b503117f35a402191279542b1710252dd885f992d7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/e70319aeaf3f05ff8f37d2877f161f0136deea83de07f4cdbbff52f8cd5f4928.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/e764984b08fe7f066db650b6479ece8ddbd8a9ba102edc24ad7792621cfa2b18.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/e7d6718b3d1b1a27244d4d3ea771fccc879914c7a00462ff24cc1b9639d5586e.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/ef7257b652ccbcafd908cfc4b2006d437e6eb9b99142214842d4939045d2e867.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/f06a7d4959dbaf81a82ed56f9749b5e167f6f07651ff73e098a6d8599825d384.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/f361ecd0add5506fcce165d38d3ae9c0c9eba378374cdc244921fd3534eed7d9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/f45bc50b00f90d4a6e730a29eb084419cbaf9f64edc2f741aa71682ad981bd6b.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/f5f195cfa171b37410a0301bb1085ea6f70182dcfb6eb10665612efb4bf89c40.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/f71b7d6f58c601e2d6ca6899d53dfd055606f83d29b01e99234066ec35b57bb8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/favicon-16x16.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/favicon-32x32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/favicon-96x96.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/fb539e584a16b20f731b5a59f88eecbd4d05183a8f644c9e1ce1621e5ae6b7a4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/fc38020cf15a9c3b5a614a46f1cb12c1ecc7630775175f948f70b57278b847e1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/fd5ce1c8fa3cfbfaaa727eb76d47a097327e5d00644642e57a63eb007888d0c3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/font-awesome/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/font-awesome/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/font-awesome/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/font-awesome/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/font-awesome/fonts/fontawesome-webfont.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/images/bg_01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/images/bg_04.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/images/bottomm.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/images/cross.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/images/driver-appium.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/images/driver-chrome.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/images/driver-firefox.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/images/driver-htmlunit.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/images/driver-iexplorer.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/images/driver-opera.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/images/driver-phantomjs.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/images/driver-provided.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/images/driver-remote.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/images/driver-safari.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/images/fail.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/images/greenline.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/images/ico-q.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/images/icon-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/images/ignor.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/images/links_menu.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/images/logo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/images/menu_f.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/images/menu_h.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/images/menu_s.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/images/middle-left.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/images/middle-right.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/images/middle.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/images/minus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/images/pending.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/images/plus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/images/screen.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/images/serenity-logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/images/skip.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/images/small-middle-left.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/images/small-middle-right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/images/small-middle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/images/success.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/images/tablebg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/images/tick.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/images/top-left.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/images/top-right.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/images/top.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/images/topm.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/images/traffic-green.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/images/traffic-in-progress.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/images/traffic-orange.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/images/traffic-red.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/images/traffic-yellow.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/images/video.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/images/worker.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/jit/css/col1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/jit/css/col2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/jit/css/gradient.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/jqtree/0.22/jqtree-circle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/jqueryui/1.11.2-start/images/ui-bg_flat_55_999999_40x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/jqueryui/1.11.2-start/images/ui-bg_flat_75_aaaaaa_40x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/jqueryui/1.11.2-start/images/ui-bg_glass_45_0078ae_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/jqueryui/1.11.2-start/images/ui-bg_glass_55_f8da4e_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/jqueryui/1.11.2-start/images/ui-bg_glass_75_79c9ec_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/jqueryui/1.11.2-start/images/ui-bg_gloss-wave_45_e14f1c_500x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/jqueryui/1.11.2-start/images/ui-bg_gloss-wave_50_6eac2c_500x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/jqueryui/1.11.2-start/images/ui-bg_gloss-wave_75_2191c0_500x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/jqueryui/1.11.2-start/images/ui-bg_inset-hard_100_fcfdfd_1x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/jqueryui/1.11.2-start/images/ui-icons_0078ae_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/jqueryui/1.11.2-start/images/ui-icons_056b93_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/jqueryui/1.11.2-start/images/ui-icons_d8e7f3_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/jqueryui/1.11.2-start/images/ui-icons_e0fdff_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/jqueryui/1.11.2-start/images/ui-icons_f5e175_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/jqueryui/1.11.2-start/images/ui-icons_f7a50d_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/jqueryui/1.11.2-start/images/ui-icons_fcd113_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/ms-icon-144x144.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/ms-icon-150x150.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/ms-icon-310x310.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/ms-icon-70x70.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/nivo-slider/3.2/demo/images/dev7logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/nivo-slider/3.2/demo/images/nemo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/nivo-slider/3.2/demo/images/toystory.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/nivo-slider/3.2/demo/images/up.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/nivo-slider/3.2/demo/images/walle.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/nivo-slider/3.2/themes/bar/arrows.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/nivo-slider/3.2/themes/bar/bullets.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/nivo-slider/3.2/themes/bar/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/nivo-slider/3.2/themes/dark/arrows.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/nivo-slider/3.2/themes/dark/bullets.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/nivo-slider/3.2/themes/dark/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/nivo-slider/3.2/themes/default/bullets.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/nivo-slider/3.2/themes/default/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/nivo-slider/3.2/themes/light/arrows.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/nivo-slider/3.2/themes/light/bullets.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/nivo-slider/3.2/themes/light/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/serenity-resources" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.classpath" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/4.10.2/gc.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__aopalliance_aopalliance_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__cglib_cglib_3_2_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_beust_jcommander_1_72.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_codeborne_phantomjsdriver_1_4_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_classmate_1_0_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_1_3_9.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_code_gson_gson_2_8_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_errorprone_error_prone_annotations_2_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_guava_guava_23_6_jre.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_inject_guice_4_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_j2objc_j2objc_annotations_1_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_jimfs_jimfs_1_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_protobuf_protobuf_java_2_4_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_ibm_icu_icu4j_58_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_jhlabs_filters_2_0_235.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_openhtmltopdf_openhtmltopdf_core_0_0_1_RC9.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_openhtmltopdf_openhtmltopdf_jsoup_dom_converter_0_0_1_RC9.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_openhtmltopdf_openhtmltopdf_pdfbox_0_0_1_RC9.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_openhtmltopdf_openhtmltopdf_rtl_support_0_0_1_RC9.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_opera_operadriver_1_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_opera_operalaunchers_1_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_paulhammant_ngwebdriver_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_okhttp3_okhttp_3_9_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_okio_okio_1_13_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_thoughtworks_xstream_xstream_1_4_9.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_typesafe_config_1_3_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_vladsch_flexmark_flexmark_0_26_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_vladsch_flexmark_flexmark_all_0_26_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_vladsch_flexmark_flexmark_ext_abbreviation_0_26_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_vladsch_flexmark_flexmark_ext_anchorlink_0_26_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_vladsch_flexmark_flexmark_ext_aside_0_26_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_vladsch_flexmark_flexmark_ext_autolink_0_26_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_vladsch_flexmark_flexmark_ext_definition_0_26_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_vladsch_flexmark_flexmark_ext_emoji_0_26_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_vladsch_flexmark_flexmark_ext_escaped_character_0_26_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_vladsch_flexmark_flexmark_ext_footnotes_0_26_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_vladsch_flexmark_flexmark_ext_gfm_issues_0_26_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_vladsch_flexmark_flexmark_ext_gfm_strikethrough_0_26_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_vladsch_flexmark_flexmark_ext_gfm_tables_0_26_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_vladsch_flexmark_flexmark_ext_gfm_tasklist_0_26_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_vladsch_flexmark_flexmark_ext_gfm_users_0_26_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_vladsch_flexmark_flexmark_ext_ins_0_26_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_vladsch_flexmark_flexmark_ext_jekyll_front_matter_0_26_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_vladsch_flexmark_flexmark_ext_jekyll_tag_0_26_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_vladsch_flexmark_flexmark_ext_superscript_0_26_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_vladsch_flexmark_flexmark_ext_tables_0_26_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_vladsch_flexmark_flexmark_ext_toc_0_26_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_vladsch_flexmark_flexmark_ext_typographic_0_26_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_vladsch_flexmark_flexmark_ext_wikilink_0_26_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_vladsch_flexmark_flexmark_ext_xwiki_macros_0_26_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_vladsch_flexmark_flexmark_ext_yaml_front_matter_0_26_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_vladsch_flexmark_flexmark_formatter_0_26_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_vladsch_flexmark_flexmark_html_parser_0_26_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_vladsch_flexmark_flexmark_jira_converter_0_26_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_vladsch_flexmark_flexmark_pdf_converter_0_26_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_vladsch_flexmark_flexmark_profile_pegdown_0_26_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_vladsch_flexmark_flexmark_util_0_26_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_vladsch_flexmark_flexmark_youtrack_converter_0_26_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__commons_beanutils_commons_beanutils_1_9_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__commons_beanutils_commons_beanutils_core_1_8_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__commons_codec_commons_codec_1_10.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__commons_collections_commons_collections_3_2_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__commons_digester_commons_digester_1_8_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__commons_io_commons_io_2_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__commons_jxpath_commons_jxpath_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__commons_logging_commons_logging_1_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__commons_net_commons_net_3_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__commons_validator_commons_validator_1_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__es_nitaur_markdown_txtmark_0_16.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__info_cukes_cucumber_html_0_2_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_appium_java_client_6_0_0_BETA2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_cucumber_cucumber_core_2_3_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_cucumber_cucumber_java_2_3_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_cucumber_cucumber_junit_2_3_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_cucumber_cucumber_jvm_deps_1_0_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_cucumber_gherkin_5_0_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_cucumber_tag_expressions_1_1_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_vavr_vavr_0_9_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_vavr_vavr_match_0_9_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_el_javax_el_api_2_2_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_inject_javax_inject_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_servlet_javax_servlet_api_3_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_validation_validation_api_1_1_0_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__joda_time_joda_time_2_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_12.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__net_bytebuddy_byte_buddy_1_7_9.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__net_jcip_jcip_annotations_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__net_serenity_bdd_serenity_core_1_9_9.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__net_serenity_bdd_serenity_cucumber_1_9_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__net_serenity_bdd_serenity_junit_1_9_9.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__net_serenity_bdd_serenity_report_resources_1_9_9.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__net_serenity_bdd_serenity_screenplay_1_9_9.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__net_serenity_bdd_serenity_screenplay_webdriver_1_9_9.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__net_sf_opencsv_opencsv_2_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__net_sourceforge_cssparser_cssparser_0_9_24.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__net_sourceforge_htmlunit_htmlunit_2_29.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__net_sourceforge_htmlunit_htmlunit_core_js_2_28.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__net_sourceforge_htmlunit_neko_htmlunit_2_28.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__net_sourceforge_jexcelapi_jxl_2_6_12.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_ant_ant_1_9_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_ant_ant_launcher_1_9_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_commons_commons_exec_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_commons_commons_lang3_3_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_commons_commons_text_1_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_httpcomponents_httpclient_4_5_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_httpcomponents_httpcore_4_4_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_httpcomponents_httpmime_4_5_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_pdfbox_fontbox_2_0_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_pdfbox_pdfbox_2_0_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_asciidoctor_asciidoctorj_1_5_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_aspectj_aspectjweaver_1_8_13.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_assertj_assertj_core_1_7_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_awaitility_awaitility_3_0_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_checkerframework_checker_compat_qual_2_0_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_codehaus_groovy_groovy_2_4_12.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_codehaus_mojo_animal_sniffer_annotations_1_14.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_eclipse_jetty_jetty_client_9_4_8_v20171121.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_eclipse_jetty_jetty_http_9_4_8_v20171121.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_eclipse_jetty_jetty_io_9_4_8_v20171121.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_eclipse_jetty_jetty_util_9_4_8_v20171121.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_eclipse_jetty_jetty_xml_9_4_8_v20171121.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_eclipse_jetty_websocket_websocket_api_9_4_8_v20171121.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_eclipse_jetty_websocket_websocket_client_9_4_8_v20171121.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_eclipse_jetty_websocket_websocket_common_9_4_8_v20171121.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_fluentlenium_fluentlenium_core_0_10_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_freemarker_freemarker_2_3_23.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_glassfish_web_javax_el_2_2_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_library_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hibernate_hibernate_validator_5_1_1_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_imgscalr_imgscalr_lib_4_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_ini4j_ini4j_0_5_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jboss_logging_jboss_logging_3_1_3_GA.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jruby_jruby_complete_1_7_26.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jsoup_jsoup_1_10_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_mockito_mockito_core_1_10_19.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_nibor_autolink_autolink_0_6_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_objenesis_objenesis_2_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_openpnp_opencv_3_2_0_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_ow2_asm_asm_5_0_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_htmlunit_driver_2_29_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_jetty_repacked_9_4_7_v20171121.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_api_3_11_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_chrome_driver_3_11_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_edge_driver_3_11_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_firefox_driver_3_11_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_ie_driver_3_11_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_java_3_11_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_opera_driver_3_11_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_remote_driver_3_11_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_safari_driver_3_11_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_server_3_11_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_support_3_11_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_slf4j_slf4j_api_1_7_21.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_slf4j_slf4j_simple_1_7_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_aop_5_0_2_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_beans_5_0_2_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_context_5_0_2_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_core_5_0_2_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_expression_5_0_2_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_jcl_5_0_2_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_w3c_css_sac_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_yaml_snakeyaml_1_19.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__xalan_serializer_2_7_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__xalan_xalan_2_7_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__xerces_xercesImpl_2_11_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__xml_apis_xml_apis_1_4_01.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__xmlpull_xmlpull_1_1_3_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__xpp3_xpp3_min_1_1_4c.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/co.com.test.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/co.com.test_main.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/co.com.test_test.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.project" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.settings/.jsdtscope" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.settings/org.eclipse.wst.jsdt.ui.superType.container" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.settings/org.eclipse.wst.jsdt.ui.superType.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JenkinsfileLocal" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build.gradle" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/resources/test/driver/chromedriver.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/resources/test/features/demo.feature" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/resources/test/features/traductor_google.feature" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/serenity.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/settings.gradle" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/co/com/test/runners/RunnerTags.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/resources/driver/chromedriver.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/resources/features/demo.feature" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/16e14266b402f71fbec18d24b620e81d27f06203311dc9d00c4b551e695829ad.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/16e14266b402f71fbec18d24b620e81d27f06203311dc9d00c4b551e695829ad.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/1d99461db689fcd7b87b8557542f941e74c672d152ac85837f1d5abdd28e874b.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/1d99461db689fcd7b87b8557542f941e74c672d152ac85837f1d5abdd28e874b.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/27a17aeb1f505e66eb0526c2326c982eb8688bef14ebd41a965251914543860d.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/27a17aeb1f505e66eb0526c2326c982eb8688bef14ebd41a965251914543860d.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/2f59df5a4feccefff541f3a3f0f19ff69082c3d3d406875b259415f1be4b0b57.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/2f59df5a4feccefff541f3a3f0f19ff69082c3d3d406875b259415f1be4b0b57.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/31b6d3ec8439c1745ee60f2e8df84b87c6a70f59e8364c9ae5b759bd45dace42.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/31b6d3ec8439c1745ee60f2e8df84b87c6a70f59e8364c9ae5b759bd45dace42.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/3e4568a1d9282e5f282d4b5d3f5f6fe9de17170f629d45a0490cb13e7b70f1a9.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/3e4568a1d9282e5f282d4b5d3f5f6fe9de17170f629d45a0490cb13e7b70f1a9.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/44bb0cf33d5eb2619b7d5cf847614ef8244b2ce2704f53055f4031cb4ff8cadd.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/4f9f1c9e19aeecaa1ab32d281687d5242288c7ad6352161c561904e3f8b3eff7.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/4f9f1c9e19aeecaa1ab32d281687d5242288c7ad6352161c561904e3f8b3eff7.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/50c799423308f590164f14f5905c27ffe218918cc7c9677e745b6be010eb98b1.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/65d1d7b13cab100bde7c4248371bf65f4cd34d1b9f7c53d318a2fb770fc1e971.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/65d1d7b13cab100bde7c4248371bf65f4cd34d1b9f7c53d318a2fb770fc1e971.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/6915807c8f13d5c69bb21048c3f38fd934ce05caa378fbf18a7f14e6c415e8b6.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/773a571d092c5846a3019576b732f5fa2a9b129891c011c10cda8839a7f193e0.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/773a571d092c5846a3019576b732f5fa2a9b129891c011c10cda8839a7f193e0.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/7d55084aec0717130491d35a346b9b58ed4dbd4baa1efcadfbbc4b066d1acbca.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/7d55084aec0717130491d35a346b9b58ed4dbd4baa1efcadfbbc4b066d1acbca.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/7de52ab7c2e754b21af5463b572c4c7255a3704fd062b42181084ba41ce33ee6.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/7de52ab7c2e754b21af5463b572c4c7255a3704fd062b42181084ba41ce33ee6.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/8ec64c580dccc8ff8056af077f64ee7f7fe3baddbd587f69975d4887452d195e.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/8ec64c580dccc8ff8056af077f64ee7f7fe3baddbd587f69975d4887452d195e.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/908731cfbc0ce0eca79de4fef78c00ad51d6aeaa3b4e70fd0b1451a3ad9d11be.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/908731cfbc0ce0eca79de4fef78c00ad51d6aeaa3b4e70fd0b1451a3ad9d11be.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/9120ef5f408c8df64fc292a8ed51ae7077651567210d30bcd4b8806bfe2eba80.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/9985a2358e0e4b722f0d4f8eb9df9c917615155947d87ec5277d477974be5ab6.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/99be85928a1188e52f3290e613ecd14bafe7b32adba0cab610dd7f07e3cb5de8.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/99be85928a1188e52f3290e613ecd14bafe7b32adba0cab610dd7f07e3cb5de8.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/9df433dd9a1222a5c97a02543f945e9f23ec8f5a0caf7a335080a961ee41eba0.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/9df433dd9a1222a5c97a02543f945e9f23ec8f5a0caf7a335080a961ee41eba0.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-65d1d7b13cab100bde7c4248371bf65f4cd34d1b9f7c53d318a2fb770fc1e971.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-cfa882a5dfac50e0b8d9490f01ab84435a322e87a7abfc81b548d8b63d011d26.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/ac5653bb306350a05e28f1c989d40958c7f21d94bb1f625ac83d48321f612a70.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/ac5653bb306350a05e28f1c989d40958c7f21d94bb1f625ac83d48321f612a70.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/ada8d13477b38b97cfd5db8a6f063f2bf447c0f51dc3a187c3219cfd494cb47a.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/ada8d13477b38b97cfd5db8a6f063f2bf447c0f51dc3a187c3219cfd494cb47a.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/bde4fca42ca8baa0fe2eac76a241c84327dfe4ca903a1daa7cae83a1035d4745.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/bde4fca42ca8baa0fe2eac76a241c84327dfe4ca903a1daa7cae83a1035d4745.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/bff28a7972a716c3073a08f01a632fda7b4144669bac4aed15674cf195f1f133.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/bff28a7972a716c3073a08f01a632fda7b4144669bac4aed15674cf195f1f133.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/bootstrap/css/bootstrap-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/bootstrap/css/bootstrap-theme.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/bootstrap/css/bootstrap-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/bootstrap/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/bootstrap/css/bootstrap.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/bootstrap/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/bootstrap/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/bootstrap/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/bootstrap/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/bootstrap/js/npm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/browser-chrome.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/browserconfig.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/build-info.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/c8f50679684603b82ab5386fdf51831c0314828301a28b5e6d1ea98b29769a32.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/capabilities.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/cfa882a5dfac50e0b8d9490f01ab84435a322e87a7abfc81b548d8b63d011d26.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/cfa882a5dfac50e0b8d9490f01ab84435a322e87a7abfc81b548d8b63d011d26.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/cfa882a5dfac50e0b8d9490f01ab84435a322e87a7abfc81b548d8b63d011d26_screenshots.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/css/core.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/css/link.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/css/screen.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/css/tables.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/d2893fcc892165a39c2225672a2e79c333145d1fcad9ab30ddcad0a6a1ddcfbc.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/d2893fcc892165a39c2225672a2e79c333145d1fcad9ab30ddcad0a6a1ddcfbc.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/d64bf57b10eeac9e3a5decff302e4e27ade90753e6000e2ca010c669c7d963e4.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/d64bf57b10eeac9e3a5decff302e4e27ade90753e6000e2ca010c669c7d963e4.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/datatables/1.10.4/media/css/jquery.dataTables.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/datatables/1.10.4/media/css/jquery.dataTables.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/datatables/1.10.4/media/css/jquery.dataTables_themeroller.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/datatables/1.10.4/media/jqueryui/dataTables.jqueryui.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/datatables/1.10.4/media/jqueryui/dataTables.jqueryui.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/datatables/1.10.4/media/jqueryui/dataTables.jqueryui.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/datatables/1.10.4/media/jqueryui/dataTables.jqueryui.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/datatables/1.10.4/media/jqueryui/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/datatables/1.10.4/media/js/jquery.dataTables.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/datatables/1.10.4/media/js/jquery.dataTables.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/datatables/1.10.4/media/js/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/dygraph/1.1.0/dygraph-combined.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/efa777031bd50d479127a8e52290b108905b9b03e3092b335e44a60138328864.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/efa777031bd50d479127a8e52290b108905b9b03e3092b335e44a60138328864.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/excanvas/3/excanvas.compiled.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/excanvas/3/excanvas.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/font-awesome/HELP-US-OUT.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/font-awesome/css/font-awesome.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/font-awesome/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/font-awesome/fonts/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/font-awesome/less/animated.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/font-awesome/less/bordered-pulled.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/font-awesome/less/core.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/font-awesome/less/fixed-width.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/font-awesome/less/font-awesome.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/font-awesome/less/icons.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/font-awesome/less/larger.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/font-awesome/less/list.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/font-awesome/less/mixins.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/font-awesome/less/path.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/font-awesome/less/rotated-flipped.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/font-awesome/less/screen-reader.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/font-awesome/less/stacked.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/font-awesome/less/variables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/font-awesome/scss/_animated.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/font-awesome/scss/_bordered-pulled.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/font-awesome/scss/_core.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/font-awesome/scss/_fixed-width.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/font-awesome/scss/_icons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/font-awesome/scss/_larger.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/font-awesome/scss/_list.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/font-awesome/scss/_mixins.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/font-awesome/scss/_path.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/font-awesome/scss/_rotated-flipped.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/font-awesome/scss/_screen-reader.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/font-awesome/scss/_stacked.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/font-awesome/scss/_variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/font-awesome/scss/font-awesome.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/jit/2.0.1/jit-yc.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/jit/2.0.1/jit.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/jit/css/AreaChart.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/jit/css/BarChart.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/jit/css/ForceDirected.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/jit/css/ForceDirected3D.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/jit/css/HeatMap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/jit/css/Hypertree.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/jit/css/Icicle.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/jit/css/Other.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/jit/css/PieChart.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/jit/css/RGraph.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/jit/css/Spacetree.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/jit/css/Sunburst.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/jit/css/TimeGraph.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/jit/css/Treemap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/jit/css/base.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/jqplot/1.0.8/excanvas.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/jqplot/1.0.8/jquery.jqplot.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/jqplot/1.0.8/jquery.jqplot.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/jqplot/1.0.8/plugins/jqplot.BezierCurveRenderer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/jqplot/1.0.8/plugins/jqplot.BezierCurveRenderer.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/jqplot/1.0.8/plugins/jqplot.barRenderer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/jqplot/1.0.8/plugins/jqplot.barRenderer.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/jqplot/1.0.8/plugins/jqplot.blockRenderer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/jqplot/1.0.8/plugins/jqplot.blockRenderer.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/jqplot/1.0.8/plugins/jqplot.bubbleRenderer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/jqplot/1.0.8/plugins/jqplot.bubbleRenderer.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/jqplot/1.0.8/plugins/jqplot.canvasAxisLabelRenderer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/jqplot/1.0.8/plugins/jqplot.canvasAxisLabelRenderer.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/jqplot/1.0.8/plugins/jqplot.canvasAxisTickRenderer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/jqplot/1.0.8/plugins/jqplot.canvasAxisTickRenderer.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/jqplot/1.0.8/plugins/jqplot.canvasOverlay.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/jqplot/1.0.8/plugins/jqplot.canvasOverlay.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/jqplot/1.0.8/plugins/jqplot.canvasTextRenderer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/jqplot/1.0.8/plugins/jqplot.canvasTextRenderer.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/jqplot/1.0.8/plugins/jqplot.categoryAxisRenderer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/jqplot/1.0.8/plugins/jqplot.categoryAxisRenderer.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/jqplot/1.0.8/plugins/jqplot.ciParser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/jqplot/1.0.8/plugins/jqplot.ciParser.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/jqplot/1.0.8/plugins/jqplot.cursor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/jqplot/1.0.8/plugins/jqplot.cursor.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/jqplot/1.0.8/plugins/jqplot.dateAxisRenderer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/jqplot/1.0.8/plugins/jqplot.dateAxisRenderer.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/jqplot/1.0.8/plugins/jqplot.donutRenderer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/jqplot/1.0.8/plugins/jqplot.donutRenderer.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/jqplot/1.0.8/plugins/jqplot.dragable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/jqplot/1.0.8/plugins/jqplot.dragable.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/jqplot/1.0.8/plugins/jqplot.enhancedLegendRenderer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/jqplot/1.0.8/plugins/jqplot.enhancedLegendRenderer.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/jqplot/1.0.8/plugins/jqplot.funnelRenderer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/jqplot/1.0.8/plugins/jqplot.funnelRenderer.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/jqplot/1.0.8/plugins/jqplot.highlighter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/jqplot/1.0.8/plugins/jqplot.highlighter.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/jqplot/1.0.8/plugins/jqplot.json2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/jqplot/1.0.8/plugins/jqplot.json2.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/jqplot/1.0.8/plugins/jqplot.logAxisRenderer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/jqplot/1.0.8/plugins/jqplot.logAxisRenderer.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/jqplot/1.0.8/plugins/jqplot.mekkoAxisRenderer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/jqplot/1.0.8/plugins/jqplot.mekkoAxisRenderer.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/jqplot/1.0.8/plugins/jqplot.mekkoRenderer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/jqplot/1.0.8/plugins/jqplot.mekkoRenderer.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/jqplot/1.0.8/plugins/jqplot.meterGaugeRenderer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/jqplot/1.0.8/plugins/jqplot.meterGaugeRenderer.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/jqplot/1.0.8/plugins/jqplot.mobile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/jqplot/1.0.8/plugins/jqplot.mobile.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/jqplot/1.0.8/plugins/jqplot.ohlcRenderer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/jqplot/1.0.8/plugins/jqplot.ohlcRenderer.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/jqplot/1.0.8/plugins/jqplot.pieRenderer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/jqplot/1.0.8/plugins/jqplot.pieRenderer.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/jqplot/1.0.8/plugins/jqplot.pointLabels.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/jqplot/1.0.8/plugins/jqplot.pointLabels.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/jqplot/1.0.8/plugins/jqplot.pyramidAxisRenderer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/jqplot/1.0.8/plugins/jqplot.pyramidAxisRenderer.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/jqplot/1.0.8/plugins/jqplot.pyramidGridRenderer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/jqplot/1.0.8/plugins/jqplot.pyramidGridRenderer.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/jqplot/1.0.8/plugins/jqplot.pyramidRenderer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/jqplot/1.0.8/plugins/jqplot.pyramidRenderer.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/jqplot/1.0.8/plugins/jqplot.trendline.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/jqplot/1.0.8/plugins/jqplot.trendline.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/jqtree/0.22/jqtree.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/jqtree/0.22/tree.jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/jqueryui/1.11.2-start/external/jquery/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/jqueryui/1.11.2-start/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/jqueryui/1.11.2-start/jquery-ui.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/jqueryui/1.11.2-start/jquery-ui.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/jqueryui/1.11.2-start/jquery-ui.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/jqueryui/1.11.2-start/jquery-ui.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/jqueryui/1.11.2-start/jquery-ui.structure.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/jqueryui/1.11.2-start/jquery-ui.structure.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/jqueryui/1.11.2-start/jquery-ui.theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/jqueryui/1.11.2-start/jquery-ui.theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/nivo-slider/3.2/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/nivo-slider/3.2/demo/demo.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/nivo-slider/3.2/demo/scripts/jquery-1.9.0.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/nivo-slider/3.2/demo/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/nivo-slider/3.2/jquery.nivo.slider.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/nivo-slider/3.2/jquery.nivo.slider.pack.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/nivo-slider/3.2/license.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/nivo-slider/3.2/nivo-slider.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/nivo-slider/3.2/nivoslider.jquery.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/nivo-slider/3.2/themes/bar/bar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/nivo-slider/3.2/themes/dark/dark.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/nivo-slider/3.2/themes/default/default.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/nivo-slider/3.2/themes/light/light.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/pagesource1098058820949020917.html.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/pagesource1226639823779611131.html.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/pagesource1371475475153134515.html.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/pagesource1493366160988055669.html.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/pagesource1608848964106742067.html.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/pagesource1609869830767975994.html.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/pagesource180141503715280156.html.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/pagesource1849128075531434696.html.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/pagesource1874960136426585414.html.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/pagesource1887738019326612280.html.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/pagesource2471159338142097352.html.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/pagesource2789622264100700415.html.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/pagesource2980180831448622341.html.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/pagesource3047096135997786017.html.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/pagesource3154621786158918804.html.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/pagesource3414453522859331750.html.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/pagesource4062484598053638820.html.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/pagesource4284271260342240840.html.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/pagesource4352334420396068173.html.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/pagesource4607051740030783678.html.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/pagesource5016414173798574890.html.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/pagesource5169508553648949888.html.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/pagesource5184814461583247048.html.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/pagesource5238026393675875437.html.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/pagesource5338798053410728995.html.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/pagesource5404953954365424587.html.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/pagesource6082265299856082394.html.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/pagesource6673626379760107312.html.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/pagesource689178017009897165.html.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/pagesource6901359454927788146.html.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/pagesource7055286580438863646.html.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/pagesource7152566472896897008.html.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/pagesource7163376716849974571.html.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/pagesource7196269113497565136.html.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/pagesource7456447394457469641.html.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/pagesource7584738378585138210.html.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/pagesource8123165991964039094.html.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/pagesource8130275087481510300.html.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/pagesource8192194417312582699.html.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/pagesource8607307996958224240.html.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/pagesource8805818902497879352.html.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/pagesource94339590450911993.html.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/results.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/scripts/imgpreview.full.jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/scripts/jquery-1.11.1.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/scripts/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/serenity/summary.txt" />
+    </list>
+    <ignored path="co.com.test.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="co.com.test" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="myGradleHomes">
+      <map>
+        <entry key="$PROJECT_DIR$" value="D:\GRADLE\gradle-4.10.2" />
+      </map>
+    </option>
+    <option name="myGradleVersions">
+      <map>
+        <entry key="$PROJECT_DIR$" value="4.10.2" />
+      </map>
+    </option>
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="co.com.test" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="co.com.test" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="availableTasks">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates extended Serenity reports" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="reports" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of root project 'co.com.test'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Gradle wrapper files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="wrapper" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse classpath file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="eclipseClasspath" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of root project 'co.com.test'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes main resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from root project 'co.com.test'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Initializes a new Gradle build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="init" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles main Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Records a summary of test outcomes to be used for comparison in the next test run" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="history" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in root project 'co.com.test'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates all Eclipse files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="eclipse" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes test resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse JDT settings file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="eclipseJdt" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse project file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="eclipseProject" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by root project 'co.com.test'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="cleanEclipseClasspath" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Cleans all Eclipse files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="cleanEclipse" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in root project 'co.com.test'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in root project 'co.com.test'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="cleanEclipseProject" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles test classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates aggregated Serenity reports" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="aggregate" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the Serenity history directory" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="clearHistory" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="cleanEclipseJdt" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the Serenity output directory (run automatically with 'clean')" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="clearReports" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Checks the Serenity reports and fails the build if there are test failures (run automatically with 'check')" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="checkOutcomes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in root project 'co.com.test'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles test Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of root project 'co.com.test'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$USER_HOME$/Desktop/Selenium/co.com.test" value="3089103294000" />
+        <entry key="D:/Automatizacion proyectos/Reto sophos Romel/Rco.com.test" value="3138912442000" />
+        <entry key="D:/Automatizacion proyectos/Reto sophos Romel/co.com.test" value="3138912442000" />
+        <entry key="D:/Automatizacion proyectos/co.com.test" value="3138912442000" />
+        <entry key="D:/Automatizacion proyectos/co.com.testGit1" value="3089103294000" />
+        <entry key="D:/Automatizacion proyectos/co.vuelo.test" value="3089103294000" />
+        <entry key="D:/Automatizacion software/co.com.test" value="3089103294000" />
+        <entry key="$PROJECT_DIR$" value="3089103294000" />
+        <entry key="D:/ECLIPSE/co.com.test" value="3089103294000" />
+        <entry key="D:/Expedia Daniel/co.com.test" value="3089103294000" />
+        <entry key="D:/Expedia/co.com.test" value="3089103294000" />
+        <entry key="D:/Expedia2/co.com.test" value="3089103294000" />
+        <entry key="D:/GRADLE/co.com.test" value="3089103294000" />
+        <entry key="D:/PROYECTOS ECLIPSE/co.com.test" value="3089103294000" />
+        <entry key="D:/PROYECTOS/co.com.test" value="3089103294000" />
+        <entry key="D:/Proyect INTELLIJ/co.com.test" value="3089103294000" />
+        <entry key="D:/Proyect IntelliJ/co.com.test" value="3089103294000" />
+        <entry key="D:/Proyectos Automatizacion/co.com.test" value="3089103294000" />
+        <entry key="D:/RETO AUTOMATIZACION/co.com.test" value="3089103294000" />
+        <entry key="D:/RETO AUTOMATIZACION/co.com.test_R" value="3089103294000" />
+        <entry key="D:/RETO AUTOMATIZACION/co.com.test_reto" value="3089103294000" />
+        <entry key="D:/SEGUNDA AUTOMATIZACION/traductor_co.com.test" value="3089103294000" />
+        <entry key="D:/co.com.test" value="3089103294000" />
+      </map>
+    </option>
+    <option name="projectBuildClasspath">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <ExternalProjectBuildClasspathPojo>
+              <option name="modulesBuildClasspath">
+                <map>
+                  <entry key="$PROJECT_DIR$">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="entries">
+                          <list>
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.serenity-bdd/serenity-gradle-plugin/1.9.45/fcdba03fb97a521be2b1649305c75ec0638a1c80/serenity-gradle-plugin-1.9.45.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/25.0-jre/7319c34fa5866a85b6bad445adad69d402323129/guava-25.0-jre.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.inject/guice/4.2.0/25e1f4c1d528a1cffabcca0d432f634f3132f6c8/guice-4.2.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/cglib/cglib/3.2.5/326f6509e4933ee1d5f7a92662bc5a0d8f21e3ec/cglib-3.2.5.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm/5.0.3/dcc2193db20e19e1feca8b1240dbbc4e190824fa/asm-5.0.3.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-codec/commons-codec/1.10/4b95f4897fa13f2cd904aee711aeafc0c5295cd8/commons-codec-1.10.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.objenesis/objenesis/2.6/639033469776fd37c08358c6b92a4761feb2af4b/objenesis-2.6.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.25/da76ca59f6a57ee3102f8f9bd9cee742973efa8a/slf4j-api-1.7.25.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/xml-apis/xml-apis/1.4.01/3789d9fada2d3d458c4ba2de349d48780f381ee3/xml-apis-1.4.01.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.cucumber/cucumber-core/2.4.0/dd7a961cc819c6422f669fce5bf9616b48877029/cucumber-core-2.4.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.2/4bfc12adfe4842bf07b657f0369c4cb522955686/commons-logging-1.2.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/2973d150c0dc1fefe998f834810d68f278ea58ec/junit-4.12.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.mockito/mockito-core/1.10.19/e8546f5bef4e061d8dd73895b4e8f40e3fe6effe/mockito-core-1.10.19.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.bytebuddy/byte-buddy/1.8.15/cb36fe3c70ead5fcd016856a7efff908402d86b8/byte-buddy-1.8.15.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.vavr/vavr/0.9.0/3dd71b51838f78ae1b606fe0550b3cdd68bdcaf2/vavr-0.9.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.serenity-bdd/serenity-model/1.9.45/e9750dc57dd1b94b33d3a6a46102b2ec36c7ba74/serenity-model-1.9.45.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.serenity-bdd/serenity-core/1.9.45/57f44ac4cc78acb441cb1edfe92ec32e8bf71157/serenity-core-1.9.45.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/1.3.9/40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf/jsr305-1.3.9.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.checkerframework/checker-compat-qual/2.0.0/fc89b03860d11d6213d0154a62bcd1c2f69b9efa/checker-compat-qual-2.0.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.errorprone/error_prone_annotations/2.1.3/39b109f2cd352b2d71b52a3b5a1a9850e1dc304b/error_prone_annotations-2.1.3.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.j2objc/j2objc-annotations/1.1/ed28ded51a8b1c6b112568def5f4b455e6809019/j2objc-annotations-1.1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.mojo/animal-sniffer-annotations/1.14/775b7e22fb10026eed3f86e8dc556dfafe35f2d5/animal-sniffer-annotations-1.14.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/aopalliance/aopalliance/1.0/235ba8b489512805ac13a8f9ea77a1ca5ebe3e8/aopalliance-1.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.ant/ant/1.9.6/80e2063b01bab3c79c2d84e4ed5e73868394c85a/ant-1.9.6.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/info.cukes/cucumber-html/0.2.6/e2577a2a51fdb821e877433ae55ac9211ffcb16a/cucumber-html-0.2.6.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.cucumber/cucumber-jvm-deps/1.0.6/f099f06378ef35f9391fa2fbb41ac21d214fe737/cucumber-jvm-deps-1.0.6.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.cucumber/gherkin/5.0.0/a05c7dd957349d6ce3908771aa5414cb15777eb7/gherkin-5.0.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.cucumber/tag-expressions/1.1.1/a5cfcf43577aae5d314af5438459c2af659a1245/tag-expressions-1.1.1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.3/42a25dc3219429f0e5d060061f71acb49bf010a0/hamcrest-core-1.3.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.vavr/vavr-match/0.9.0/454a1d2167c6dd46d3536b8d5db1b78fbc4a2c91/vavr-match-0.9.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.serenity-bdd/serenity-report-resources/1.9.45/167797915c92918199c85d33067c6686697ebc9f/serenity-report-resources-1.9.45.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-lang3/3.7/557edd918fd41f9260963583ebf5a61a43a6b423/commons-lang3-3.7.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-net/commons-net/3.6/b71de00508dcb078d2b24b5fa7e538636de9b3da/commons-net-3.6.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.typesafe/config/1.3.1/2cf7a6cc79732e3bdf1647d7404279900ca63eb0/config-1.3.1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jsoup/jsoup/1.10.3/b842f960942503cf1abbcc8c173a7f2c19d43726/jsoup-1.10.3.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/joda-time/joda-time/2.7/5599707a3eaad13e889f691b3af78c8c03842195/joda-time-2.7.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-collections/commons-collections/3.2.2/8ad72fe39fa8c91eaaf12aadb21e0c3661fe26d5/commons-collections-3.2.2.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-io/commons-io/2.6/815893df5f31da2ece4040fe0a12fd44b577afaf/commons-io-2.6.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-beanutils/commons-beanutils-core/1.8.3/75812698e5e859f2cb587c622c4cdfcd61676426/commons-beanutils-core-1.8.3.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.sf.opencsv/opencsv/2.0/97a2765dc2db1083e7c5afcc210db5f7cad3b442/opencsv-2.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.4/d0de1ca9b69e69d1d497ee3c6009d015f64dad57/gson-2.8.4.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.imgscalr/imgscalr-lib/4.2/e2838f7119361511ef7d54fe0d502bf07f3325eb/imgscalr-lib-4.2.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.thoughtworks.xstream/xstream/1.4.9/c43f6e6bfa79b56e04a8898a923c3cf7144dd460/xstream-1.4.9.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy/groovy/2.4.12/a43be367110c491787219f1c128b5b5fc54f1e70/groovy-2.4.12.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.sourceforge.jexcelapi/jxl/2.6.12/7faf62e0697f7a88954622dfe8c8de33ed142ac7/jxl-2.6.12.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.awaitility/awaitility/3.1.0/b5e6a9bb43b175cb53f43d56257316c4916c5e11/awaitility-3.1.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.asciidoctor/asciidoctorj/1.5.6/bb757d4b8b0f8438ce2ed781f6688cc6c01d9237/asciidoctorj-1.5.6.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.freemarker/freemarker/2.3.28/7200064467a935052f99d114c2c05c3d189bc6d6/freemarker-2.3.28.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vladsch.flexmark/flexmark-all/0.26.4/629fa8a481213ff437c2fc9bd20e5ee74cf92712/flexmark-all-0.26.4.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/es.nitaur.markdown/txtmark/0.16/3b51485b8d80fd4a3650d2b5d83127d0fa002e0/txtmark-0.16.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.serenity-bdd/serenity-reports/1.9.45/ace0f949cb06c464c31014b89fdcbf55488fee79/serenity-reports-1.9.45.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-server/3.14.0/378020412ccaed791c5e194ee0c8874153c6ad3e/selenium-server-3.14.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-java/3.14.0/5b50d4072e0e51779b6e9f3594106312061bfde/selenium-java-3.14.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-api/3.14.0/73e6db9b3cdc42966679a2112bfde9efbef16223/selenium-api-3.14.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-chrome-driver/3.14.0/a8fa5d063821f70dab0b7170d4b814ef49ce4962/selenium-chrome-driver-3.14.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-edge-driver/3.14.0/ca62365ff82c8c03861848355932ab36ddd73f57/selenium-edge-driver-3.14.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-remote-driver/3.14.0/434c26e9df775d8f49619f7275a65a36d2d72ceb/selenium-remote-driver-3.14.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-safari-driver/3.14.0/8dade249fbfc6833697592c155638f348de10fbd/selenium-safari-driver-3.14.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-opera-driver/3.14.0/123ae21ad13ecc888bf3e18d5c65857df32e6a9f/selenium-opera-driver-3.14.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-support/3.14.0/2a8bfbe41c44a14f5674ea7bbcfc577259d34f99/selenium-support-3.14.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.paulhammant/ngwebdriver/1.1.4/f90f30f1db695a41caa026d1af6d42be9c6bafdf/ngwebdriver-1.1.4.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.codeborne/phantomjsdriver/1.4.4/e5778e3273f8201bf9e0ff65fb8118f37b84beba/phantomjsdriver-1.4.4.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-util/9.4.9.v20180320/8a602b93581f6af54839728f51d51ab830bdd44d/jetty-util-9.4.9.v20180320.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-io/9.4.9.v20180320/938d67c72405285d2a7a6efb10d870a1b16fa2e0/jetty-io-9.4.9.v20180320.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/htmlunit-driver/2.30.1/c9557dd8ce73d01f3d0c2c27ccb0d51e8b55c41a/htmlunit-driver-2.30.1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.appium/java-client/6.1.0/6bb22d04886b87f525e4ea352b1940a6ff8c471b/java-client-6.1.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.tyrus/tyrus-core/1.13.1/c271eacf7a13ef4e7fc661c3952dcba176e3436e/tyrus-core-1.13.1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-library/1.3/4785a3c21320980282f9f33d0d1264a69040538f/hamcrest-library-1.3.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.sourceforge.htmlunit/htmlunit/2.30/f6d2b6f1a3d3a1fcb16a929ec0a954199cf1315f/htmlunit-2.30.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpclient/4.5.5/1603dfd56ebcd583ccdf337b6c3984ac55d89e58/httpclient-4.5.5.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpmime/4.5.5/8281b24b8a493374cd2aa8a90c4156588f7dbcb6/httpmime-4.5.5.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.fluentlenium/fluentlenium-core/0.10.2/8795bd4ce7050f0c45b772e8d3b36c39646e2f0b/fluentlenium-core-0.10.2.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jhlabs/filters/2.0.235/af6a2dfefef70f1ab2d7a8d1f8173f67e276b3f4/filters-2.0.235.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.el/javax.el-api/2.2.4/1287562cc3f0ff5439ded6f2949e73ce1c0edaab/javax.el-api-2.2.4.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.web/javax.el/2.2.4/a50914ff519682e185bca4385b4313b8c8a81775/javax.el-2.2.4.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/xalan/xalan/2.7.2/d55d3f02a56ec4c25695fe67e1334ff8c2ecea23/xalan-2.7.2.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/xalan/serializer/2.7.2/24247f3bb052ee068971393bdb83e04512bb1c3c/serializer-2.7.2.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.jimfs/jimfs/1.1/8fbd0579dc68aba6186935cc1bee21d2f3e7ec1c/jimfs-1.1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.ant/ant-launcher/1.9.6/d75dd4c39ba06401f20e7afffb861d268baec6bc/ant-launcher-1.9.6.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/xmlpull/xmlpull/1.1.3.1/2b8e230d2ab644e4ecaa94db7cdedbc40c805dfa/xmlpull-1.1.3.1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/xpp3/xpp3_min/1.1.4c/19d4e90b43059058f6e056f794f0ea4030d60b86/xpp3_min-1.1.4c.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jruby/jruby-complete/1.7.26/c09885af02af34266ed929f94cedcf87cc965f46/jruby-complete-1.7.26.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vladsch.flexmark/flexmark/0.26.4/a46218fae5692c0d369dfa7a0639183181f2d9bb/flexmark-0.26.4.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vladsch.flexmark/flexmark-ext-abbreviation/0.26.4/8d4a1cb3001b797aa2549e0ee4d091f6ad0e100e/flexmark-ext-abbreviation-0.26.4.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vladsch.flexmark/flexmark-ext-anchorlink/0.26.4/86fc05d1c6e86a0def19e7d010fd82a027143570/flexmark-ext-anchorlink-0.26.4.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vladsch.flexmark/flexmark-ext-aside/0.26.4/4067213572a465192dacd2aed7d83eed695d46c9/flexmark-ext-aside-0.26.4.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vladsch.flexmark/flexmark-ext-autolink/0.26.4/8be109123674ae9f0d418b7c871e407b4bb3799a/flexmark-ext-autolink-0.26.4.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vladsch.flexmark/flexmark-ext-definition/0.26.4/d03cc63b3d4269c83238883d05ba08dc95c17398/flexmark-ext-definition-0.26.4.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vladsch.flexmark/flexmark-ext-emoji/0.26.4/2e696444e21ef08f2643172a0457b8cffc75a4e5/flexmark-ext-emoji-0.26.4.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vladsch.flexmark/flexmark-ext-escaped-character/0.26.4/f9a5d106f297338c7c23e6d42aac749412838f53/flexmark-ext-escaped-character-0.26.4.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vladsch.flexmark/flexmark-ext-footnotes/0.26.4/f085de8dba6ef76191416492180ea4e5ecf6091f/flexmark-ext-footnotes-0.26.4.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vladsch.flexmark/flexmark-ext-gfm-issues/0.26.4/fcba4e6fc11c631ddf4824f23717817fafcdd558/flexmark-ext-gfm-issues-0.26.4.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vladsch.flexmark/flexmark-ext-gfm-strikethrough/0.26.4/b9078cb0e2b59776fc867a02825bb88966208480/flexmark-ext-gfm-strikethrough-0.26.4.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vladsch.flexmark/flexmark-ext-gfm-tables/0.26.4/ed8fc78c746caab873250a6f3de1edead7b39103/flexmark-ext-gfm-tables-0.26.4.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vladsch.flexmark/flexmark-ext-gfm-tasklist/0.26.4/8c285d8d72d8d4e4da44b41266913efbbaec9694/flexmark-ext-gfm-tasklist-0.26.4.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vladsch.flexmark/flexmark-ext-gfm-users/0.26.4/8da7d666ef6c0d9e23ee449535e38e7b3e08fc72/flexmark-ext-gfm-users-0.26.4.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vladsch.flexmark/flexmark-ext-jekyll-front-matter/0.26.4/c224269e21df398f4b597028f811ae6fd64f82c8/flexmark-ext-jekyll-front-matter-0.26.4.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vladsch.flexmark/flexmark-ext-jekyll-tag/0.26.4/d32b541ec222c361a72328bc66955bc14b01d72d/flexmark-ext-jekyll-tag-0.26.4.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vladsch.flexmark/flexmark-ext-ins/0.26.4/2043ccf2f8a6970dc6ad2d96f148bcc6dd760bca/flexmark-ext-ins-0.26.4.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vladsch.flexmark/flexmark-ext-xwiki-macros/0.26.4/57c57ee6b54c5ae93a4244442cb55b67cdca571b/flexmark-ext-xwiki-macros-0.26.4.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vladsch.flexmark/flexmark-ext-superscript/0.26.4/6be77ced1e9e5a8bd990c8b85ba7babac077b4d3/flexmark-ext-superscript-0.26.4.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vladsch.flexmark/flexmark-ext-tables/0.26.4/795b08c5aaa5ffa4ed4f2d75c275e799b9510f50/flexmark-ext-tables-0.26.4.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vladsch.flexmark/flexmark-ext-toc/0.26.4/401ce3e45f59e9170d71d1d563a386d6ab81ae1b/flexmark-ext-toc-0.26.4.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vladsch.flexmark/flexmark-ext-typographic/0.26.4/41fdd7e6b79879636914ce7472480ecd944024d4/flexmark-ext-typographic-0.26.4.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vladsch.flexmark/flexmark-ext-wikilink/0.26.4/95a05e65960e98dc4623185edc1e9220d28a4a4f/flexmark-ext-wikilink-0.26.4.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vladsch.flexmark/flexmark-ext-yaml-front-matter/0.26.4/546e2cc3dfc38b3102ca4c925b2a30afc9f9538d/flexmark-ext-yaml-front-matter-0.26.4.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vladsch.flexmark/flexmark-formatter/0.26.4/6c32eae15e54e1a5b5f54efcab403e7f21b1e84b/flexmark-formatter-0.26.4.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vladsch.flexmark/flexmark-html-parser/0.26.4/8dd7b90020a0d6aa56f5ef382f23874407408136/flexmark-html-parser-0.26.4.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vladsch.flexmark/flexmark-jira-converter/0.26.4/e71f65bcfb75d8fdc1ba037b81276b0d7046137/flexmark-jira-converter-0.26.4.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vladsch.flexmark/flexmark-pdf-converter/0.26.4/ec02d30f11aba48a94b46161d7834a7ddfd4ecc3/flexmark-pdf-converter-0.26.4.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vladsch.flexmark/flexmark-profile-pegdown/0.26.4/8301b1ea2f7309ff2f491ac4259d3c5be4edfd17/flexmark-profile-pegdown-0.26.4.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vladsch.flexmark/flexmark-util/0.26.4/7b1b21a67f3e0ea9c17621510e8dd8ac991ef11e/flexmark-util-0.26.4.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vladsch.flexmark/flexmark-youtrack-converter/0.26.4/2b76c660ad637e4558578be13228a2f47d7ef81e/flexmark-youtrack-converter-0.26.4.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-firefox-driver/3.14.0/f35ddc0b5e0e09be644df14ada85d83e6b8b3f3c/selenium-firefox-driver-3.14.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-ie-driver/3.14.0/3c92cd026f08d381aa9cff8eca03962add562577/selenium-ie-driver-3.14.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.beust/jcommander/1.72/6375e521c1e11d6563d4f25a07ce124ccf8cd171/jcommander-1.72.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-exec/1.3/8dfb9facd0830a27b1b5f29f84593f0aeee7773b/commons-exec-1.3.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-text/1.3/9abf61708a66ab5e55f6169a200dbfc584b546d9/commons-text-1.3.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpcore/4.4.9/a86ce739e5a7175b4b234c290a00a5fdb80957a0/httpcore-4.4.9.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.jcip/jcip-annotations/1.0/afba4942caaeaf46aab0b976afd57cc7c181467e/jcip-annotations-1.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/jetty-repacked/9.4.8.v20180619/7c116f4175081802c5a4464243b53906306d87ea/jetty-repacked-9.4.8.v20180619.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-client/9.4.9.v20180320/c6ed57d55c5d55927c6e11fc47972a4eeacba6f4/jetty-client-9.4.9.v20180320.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-http/9.4.9.v20180320/64d93698196ea7a66b33c754a0eac2a97d5af4b6/jetty-http-9.4.9.v20180320.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-xml/9.4.9.v20180320/247894128d4d3ba41774be941fb801e20e668be7/jetty-xml-9.4.9.v20180320.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.10.0/7ef0f1d95bf4c0b3ba30bbae25e0e562b05cf75e/okhttp-3.10.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.14.1/3bd22672d0999a1a4d13b542b5dd855a89e69993/okio-1.14.1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.servlet/javax.servlet-api/3.1.0/3cd63d075497751784b2fa84be59432f4905bf7c/javax.servlet-api-3.1.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty.websocket/websocket-api/9.4.9.v20180320/8be09aafe135e370bbc33a8ec01b443ac9aa9a47/websocket-api-9.4.9.v20180320.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty.websocket/websocket-client/9.4.9.v20180320/7bd061a1e4f061a02c9fa1441ff93aca213b303c/websocket-client-9.4.9.v20180320.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty.websocket/websocket-common/9.4.9.v20180320/ca1f96a14ae58d951d1d93c1c5a3416b4b501578/websocket-common-9.4.9.v20180320.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/xerces/xercesImpl/2.11.0/9bb329db1cfc4e22462c9d6b43a8432f5850e92c/xercesImpl-2.11.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.yaml/snakeyaml/1.19/2d998d3d674b172a588e54ab619854d073f555b5/snakeyaml-1.19.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-validator/commons-validator/1.6/e989d1e87cdd60575df0765ed5bac65c905d7908/commons-validator-1.6.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/5.0.5.RELEASE/9cca4bf5acb693249a01c218f471c677b951d6e2/spring-context-5.0.5.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.aspectj/aspectjweaver/1.9.1/286d98dc6bed3021f76a241d593fd713515777dd/aspectjweaver-1.9.1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openpnp/opencv/3.2.0-1/98bc368c7b490392fbe05a4121b7781fc112fbe8/opencv-3.2.0-1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.tyrus/tyrus-spi/1.13.1/d33259bbdfe5914d1fd2bd036b2c4e181ce572e/tyrus-spi-1.13.1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.openhtmltopdf/openhtmltopdf-core/0.0.1-RC9/efffe5bde3b993f482b4064b83f9c059afa9ac75/openhtmltopdf-core-0.0.1-RC9.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.openhtmltopdf/openhtmltopdf-pdfbox/0.0.1-RC9/a7f9fbf92f2af79b3ed0166b7e41a1743a5ba708/openhtmltopdf-pdfbox-0.0.1-RC9.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.openhtmltopdf/openhtmltopdf-rtl-support/0.0.1-RC9/dee26c338670331b2a72f751b30280c0cb0adef9/openhtmltopdf-rtl-support-0.0.1-RC9.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.openhtmltopdf/openhtmltopdf-jsoup-dom-converter/0.0.1-RC9/98b8d35d5f25610ab373c955d0c645dac9b04c49/openhtmltopdf-jsoup-dom-converter-0.0.1-RC9.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.sourceforge.htmlunit/htmlunit-core-js/2.28/895c41d9ef277e9cc3d6762ea312172b586eb7d7/htmlunit-core-js-2.28.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.sourceforge.htmlunit/neko-htmlunit/2.30/552deb27e3e55ff5489c5957179877c5860182/neko-htmlunit-2.30.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.sourceforge.htmlunit/htmlunit-cssparser/1.0.0/fdebae3d72981654370c38df1d9969d056bd15e6/htmlunit-cssparser-1.0.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-beanutils/commons-beanutils/1.9.2/7a87d845ad3a155297e8f67d9008f4c1e5656b71/commons-beanutils-1.9.2.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-digester/commons-digester/1.8.1/3dec9b9c7ea9342d4dbe8c38560080d85b44a015/commons-digester-1.8.1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-aop/5.0.5.RELEASE/b11b61b94d7fb752a1c9bf3461d655c3084fae47/spring-aop-5.0.5.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-beans/5.0.5.RELEASE/984445863c0bbdaaf860615762d998b471a6bf92/spring-beans-5.0.5.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/5.0.5.RELEASE/1bd9feb1d9dac6accd27f5244b6c47cfcb55045c/spring-core-5.0.5.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-expression/5.0.5.RELEASE/fc6c7a95aeb7d00f4c65c338b08d97767eb0dd99/spring-expression-5.0.5.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.websocket/javax.websocket-api/1.1/13b8cb26dfb76ac8c28294b06b4b8419e22e9ea1/javax.websocket-api-1.1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.nibor.autolink/autolink/0.6.0/3986d016a14e8c81afeec752f19af29b20e8367b/autolink-0.6.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.pdfbox/pdfbox/2.0.4/c7bf210f3272838d5fac09a40f752e0cd866fccf/pdfbox-2.0.4.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.ibm.icu/icu4j/58.1/4454cc527bd966be254aad41beedf0275ef92312/icu4j-58.1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.pdfbox/fontbox/2.0.4/8acfda1f8ff231094fbc2c9534ce2523a84b84ae/fontbox-2.0.4.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-jcl/5.0.5.RELEASE/f4a2854b9d865e8b86717595aec16f877f8c6489/spring-jcl-5.0.5.RELEASE.jar" />
+                          </list>
+                        </option>
+                        <option name="path" value="$PROJECT_DIR$" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="name" value="co.com.test" />
+              <option name="projectBuildClasspath">
+                <list>
+                  <option value="D:/GRADLE/gradle-4.10.2/src/announce" />
+                  <option value="D:/GRADLE/gradle-4.10.2/src/antlr" />
+                  <option value="D:/GRADLE/gradle-4.10.2/src/base-services" />
+                  <option value="D:/GRADLE/gradle-4.10.2/src/base-services-groovy" />
+                  <option value="D:/GRADLE/gradle-4.10.2/src/build-cache" />
+                  <option value="D:/GRADLE/gradle-4.10.2/src/build-cache-http" />
+                  <option value="D:/GRADLE/gradle-4.10.2/src/build-comparison" />
+                  <option value="D:/GRADLE/gradle-4.10.2/src/build-init" />
+                  <option value="D:/GRADLE/gradle-4.10.2/src/build-option" />
+                  <option value="D:/GRADLE/gradle-4.10.2/src/cli" />
+                  <option value="D:/GRADLE/gradle-4.10.2/src/code-quality" />
+                  <option value="D:/GRADLE/gradle-4.10.2/src/composite-builds" />
+                  <option value="D:/GRADLE/gradle-4.10.2/src/core" />
+                  <option value="D:/GRADLE/gradle-4.10.2/src/core-api" />
+                  <option value="D:/GRADLE/gradle-4.10.2/src/dependency-management" />
+                  <option value="D:/GRADLE/gradle-4.10.2/src/diagnostics" />
+                  <option value="D:/GRADLE/gradle-4.10.2/src/docs" />
+                  <option value="D:/GRADLE/gradle-4.10.2/src/ear" />
+                  <option value="D:/GRADLE/gradle-4.10.2/src/ide" />
+                  <option value="D:/GRADLE/gradle-4.10.2/src/ide-native" />
+                  <option value="D:/GRADLE/gradle-4.10.2/src/ide-play" />
+                  <option value="D:/GRADLE/gradle-4.10.2/src/installation-beacon" />
+                  <option value="D:/GRADLE/gradle-4.10.2/src/internal-android-performance-testing" />
+                  <option value="D:/GRADLE/gradle-4.10.2/src/internal-integ-testing" />
+                  <option value="D:/GRADLE/gradle-4.10.2/src/internal-performance-testing" />
+                  <option value="D:/GRADLE/gradle-4.10.2/src/internal-testing" />
+                  <option value="D:/GRADLE/gradle-4.10.2/src/ivy" />
+                  <option value="D:/GRADLE/gradle-4.10.2/src/jacoco" />
+                  <option value="D:/GRADLE/gradle-4.10.2/src/javascript" />
+                  <option value="D:/GRADLE/gradle-4.10.2/src/jvm-services" />
+                  <option value="D:/GRADLE/gradle-4.10.2/src/language-groovy" />
+                  <option value="D:/GRADLE/gradle-4.10.2/src/language-java" />
+                  <option value="D:/GRADLE/gradle-4.10.2/src/language-jvm" />
+                  <option value="D:/GRADLE/gradle-4.10.2/src/language-native" />
+                  <option value="D:/GRADLE/gradle-4.10.2/src/language-scala" />
+                  <option value="D:/GRADLE/gradle-4.10.2/src/launcher" />
+                  <option value="D:/GRADLE/gradle-4.10.2/src/logging" />
+                  <option value="D:/GRADLE/gradle-4.10.2/src/maven" />
+                  <option value="D:/GRADLE/gradle-4.10.2/src/messaging" />
+                  <option value="D:/GRADLE/gradle-4.10.2/src/model-core" />
+                  <option value="D:/GRADLE/gradle-4.10.2/src/model-groovy" />
+                  <option value="D:/GRADLE/gradle-4.10.2/src/native" />
+                  <option value="D:/GRADLE/gradle-4.10.2/src/osgi" />
+                  <option value="D:/GRADLE/gradle-4.10.2/src/persistent-cache" />
+                  <option value="D:/GRADLE/gradle-4.10.2/src/platform-base" />
+                  <option value="D:/GRADLE/gradle-4.10.2/src/platform-jvm" />
+                  <option value="D:/GRADLE/gradle-4.10.2/src/platform-native" />
+                  <option value="D:/GRADLE/gradle-4.10.2/src/platform-play" />
+                  <option value="D:/GRADLE/gradle-4.10.2/src/plugin-development" />
+                  <option value="D:/GRADLE/gradle-4.10.2/src/plugin-use" />
+                  <option value="D:/GRADLE/gradle-4.10.2/src/plugins" />
+                  <option value="D:/GRADLE/gradle-4.10.2/src/process-services" />
+                  <option value="D:/GRADLE/gradle-4.10.2/src/publish" />
+                  <option value="D:/GRADLE/gradle-4.10.2/src/reporting" />
+                  <option value="D:/GRADLE/gradle-4.10.2/src/resources" />
+                  <option value="D:/GRADLE/gradle-4.10.2/src/resources-gcs" />
+                  <option value="D:/GRADLE/gradle-4.10.2/src/resources-http" />
+                  <option value="D:/GRADLE/gradle-4.10.2/src/resources-s3" />
+                  <option value="D:/GRADLE/gradle-4.10.2/src/resources-sftp" />
+                  <option value="D:/GRADLE/gradle-4.10.2/src/scala" />
+                  <option value="D:/GRADLE/gradle-4.10.2/src/signing" />
+                  <option value="D:/GRADLE/gradle-4.10.2/src/test-kit" />
+                  <option value="D:/GRADLE/gradle-4.10.2/src/testing-base" />
+                  <option value="D:/GRADLE/gradle-4.10.2/src/testing-junit-platform" />
+                  <option value="D:/GRADLE/gradle-4.10.2/src/testing-jvm" />
+                  <option value="D:/GRADLE/gradle-4.10.2/src/testing-native" />
+                  <option value="D:/GRADLE/gradle-4.10.2/src/tooling-api" />
+                  <option value="D:/GRADLE/gradle-4.10.2/src/tooling-api-builders" />
+                  <option value="D:/GRADLE/gradle-4.10.2/src/tooling-native" />
+                  <option value="D:/GRADLE/gradle-4.10.2/src/version-control" />
+                  <option value="D:/GRADLE/gradle-4.10.2/src/workers" />
+                  <option value="D:/GRADLE/gradle-4.10.2/src/wrapper" />
+                  <option value="D:/GRADLE/gradle-4.10.2/lib/ant-1.9.11.jar" />
+                  <option value="D:/GRADLE/gradle-4.10.2/lib/ant-launcher-1.9.11.jar" />
+                  <option value="D:/GRADLE/gradle-4.10.2/lib/gradle-api-metadata-4.10.2.jar" />
+                  <option value="D:/GRADLE/gradle-4.10.2/lib/gradle-base-services-4.10.2.jar" />
+                  <option value="D:/GRADLE/gradle-4.10.2/lib/gradle-base-services-groovy-4.10.2.jar" />
+                  <option value="D:/GRADLE/gradle-4.10.2/lib/gradle-build-cache-4.10.2.jar" />
+                  <option value="D:/GRADLE/gradle-4.10.2/lib/gradle-build-option-4.10.2.jar" />
+                  <option value="D:/GRADLE/gradle-4.10.2/lib/gradle-cli-4.10.2.jar" />
+                  <option value="D:/GRADLE/gradle-4.10.2/lib/gradle-core-4.10.2.jar" />
+                  <option value="D:/GRADLE/gradle-4.10.2/lib/gradle-core-api-4.10.2.jar" />
+                  <option value="D:/GRADLE/gradle-4.10.2/lib/gradle-docs-4.10.2.jar" />
+                  <option value="D:/GRADLE/gradle-4.10.2/lib/gradle-installation-beacon-4.10.2.jar" />
+                  <option value="D:/GRADLE/gradle-4.10.2/lib/gradle-jvm-services-4.10.2.jar" />
+                  <option value="D:/GRADLE/gradle-4.10.2/lib/gradle-kotlin-dsl-1.0-rc-6.jar" />
+                  <option value="D:/GRADLE/gradle-4.10.2/lib/gradle-kotlin-dsl-provider-plugins-1.0-rc-6.jar" />
+                  <option value="D:/GRADLE/gradle-4.10.2/lib/gradle-kotlin-dsl-tooling-builders-1.0-rc-6.jar" />
+                  <option value="D:/GRADLE/gradle-4.10.2/lib/gradle-kotlin-dsl-tooling-models-1.0-rc-6.jar" />
+                  <option value="D:/GRADLE/gradle-4.10.2/lib/gradle-launcher-4.10.2.jar" />
+                  <option value="D:/GRADLE/gradle-4.10.2/lib/gradle-logging-4.10.2.jar" />
+                  <option value="D:/GRADLE/gradle-4.10.2/lib/gradle-messaging-4.10.2.jar" />
+                  <option value="D:/GRADLE/gradle-4.10.2/lib/gradle-model-core-4.10.2.jar" />
+                  <option value="D:/GRADLE/gradle-4.10.2/lib/gradle-model-groovy-4.10.2.jar" />
+                  <option value="D:/GRADLE/gradle-4.10.2/lib/gradle-native-4.10.2.jar" />
+                  <option value="D:/GRADLE/gradle-4.10.2/lib/gradle-persistent-cache-4.10.2.jar" />
+                  <option value="D:/GRADLE/gradle-4.10.2/lib/gradle-process-services-4.10.2.jar" />
+                  <option value="D:/GRADLE/gradle-4.10.2/lib/gradle-resources-4.10.2.jar" />
+                  <option value="D:/GRADLE/gradle-4.10.2/lib/gradle-runtime-api-info-4.10.2.jar" />
+                  <option value="D:/GRADLE/gradle-4.10.2/lib/gradle-tooling-api-4.10.2.jar" />
+                  <option value="D:/GRADLE/gradle-4.10.2/lib/gradle-wrapper-4.10.2.jar" />
+                  <option value="D:/GRADLE/gradle-4.10.2/lib/groovy-all-2.4.15.jar" />
+                  <option value="D:/GRADLE/gradle-4.10.2/lib/plugins/gradle-announce-4.10.2.jar" />
+                  <option value="D:/GRADLE/gradle-4.10.2/lib/plugins/gradle-antlr-4.10.2.jar" />
+                  <option value="D:/GRADLE/gradle-4.10.2/lib/plugins/gradle-build-cache-http-4.10.2.jar" />
+                  <option value="D:/GRADLE/gradle-4.10.2/lib/plugins/gradle-build-comparison-4.10.2.jar" />
+                  <option value="D:/GRADLE/gradle-4.10.2/lib/plugins/gradle-build-init-4.10.2.jar" />
+                  <option value="D:/GRADLE/gradle-4.10.2/lib/plugins/gradle-code-quality-4.10.2.jar" />
+                  <option value="D:/GRADLE/gradle-4.10.2/lib/plugins/gradle-composite-builds-4.10.2.jar" />
+                  <option value="D:/GRADLE/gradle-4.10.2/lib/plugins/gradle-dependency-management-4.10.2.jar" />
+                  <option value="D:/GRADLE/gradle-4.10.2/lib/plugins/gradle-diagnostics-4.10.2.jar" />
+                  <option value="D:/GRADLE/gradle-4.10.2/lib/plugins/gradle-ear-4.10.2.jar" />
+                  <option value="D:/GRADLE/gradle-4.10.2/lib/plugins/gradle-ide-4.10.2.jar" />
+                  <option value="D:/GRADLE/gradle-4.10.2/lib/plugins/gradle-ide-native-4.10.2.jar" />
+                  <option value="D:/GRADLE/gradle-4.10.2/lib/plugins/gradle-ide-play-4.10.2.jar" />
+                  <option value="D:/GRADLE/gradle-4.10.2/lib/plugins/gradle-ivy-4.10.2.jar" />
+                  <option value="D:/GRADLE/gradle-4.10.2/lib/plugins/gradle-jacoco-4.10.2.jar" />
+                  <option value="D:/GRADLE/gradle-4.10.2/lib/plugins/gradle-javascript-4.10.2.jar" />
+                  <option value="D:/GRADLE/gradle-4.10.2/lib/plugins/gradle-language-groovy-4.10.2.jar" />
+                  <option value="D:/GRADLE/gradle-4.10.2/lib/plugins/gradle-language-java-4.10.2.jar" />
+                  <option value="D:/GRADLE/gradle-4.10.2/lib/plugins/gradle-language-jvm-4.10.2.jar" />
+                  <option value="D:/GRADLE/gradle-4.10.2/lib/plugins/gradle-language-native-4.10.2.jar" />
+                  <option value="D:/GRADLE/gradle-4.10.2/lib/plugins/gradle-language-scala-4.10.2.jar" />
+                  <option value="D:/GRADLE/gradle-4.10.2/lib/plugins/gradle-maven-4.10.2.jar" />
+                  <option value="D:/GRADLE/gradle-4.10.2/lib/plugins/gradle-osgi-4.10.2.jar" />
+                  <option value="D:/GRADLE/gradle-4.10.2/lib/plugins/gradle-platform-base-4.10.2.jar" />
+                  <option value="D:/GRADLE/gradle-4.10.2/lib/plugins/gradle-platform-jvm-4.10.2.jar" />
+                  <option value="D:/GRADLE/gradle-4.10.2/lib/plugins/gradle-platform-native-4.10.2.jar" />
+                  <option value="D:/GRADLE/gradle-4.10.2/lib/plugins/gradle-platform-play-4.10.2.jar" />
+                  <option value="D:/GRADLE/gradle-4.10.2/lib/plugins/gradle-plugin-development-4.10.2.jar" />
+                  <option value="D:/GRADLE/gradle-4.10.2/lib/plugins/gradle-plugin-use-4.10.2.jar" />
+                  <option value="D:/GRADLE/gradle-4.10.2/lib/plugins/gradle-plugins-4.10.2.jar" />
+                  <option value="D:/GRADLE/gradle-4.10.2/lib/plugins/gradle-publish-4.10.2.jar" />
+                  <option value="D:/GRADLE/gradle-4.10.2/lib/plugins/gradle-reporting-4.10.2.jar" />
+                  <option value="D:/GRADLE/gradle-4.10.2/lib/plugins/gradle-resources-gcs-4.10.2.jar" />
+                  <option value="D:/GRADLE/gradle-4.10.2/lib/plugins/gradle-resources-http-4.10.2.jar" />
+                  <option value="D:/GRADLE/gradle-4.10.2/lib/plugins/gradle-resources-s3-4.10.2.jar" />
+                  <option value="D:/GRADLE/gradle-4.10.2/lib/plugins/gradle-resources-sftp-4.10.2.jar" />
+                  <option value="D:/GRADLE/gradle-4.10.2/lib/plugins/gradle-scala-4.10.2.jar" />
+                  <option value="D:/GRADLE/gradle-4.10.2/lib/plugins/gradle-signing-4.10.2.jar" />
+                  <option value="D:/GRADLE/gradle-4.10.2/lib/plugins/gradle-test-kit-4.10.2.jar" />
+                  <option value="D:/GRADLE/gradle-4.10.2/lib/plugins/gradle-testing-base-4.10.2.jar" />
+                  <option value="D:/GRADLE/gradle-4.10.2/lib/plugins/gradle-testing-junit-platform-4.10.2.jar" />
+                  <option value="D:/GRADLE/gradle-4.10.2/lib/plugins/gradle-testing-jvm-4.10.2.jar" />
+                  <option value="D:/GRADLE/gradle-4.10.2/lib/plugins/gradle-testing-native-4.10.2.jar" />
+                  <option value="D:/GRADLE/gradle-4.10.2/lib/plugins/gradle-tooling-api-builders-4.10.2.jar" />
+                  <option value="D:/GRADLE/gradle-4.10.2/lib/plugins/gradle-tooling-native-4.10.2.jar" />
+                  <option value="D:/GRADLE/gradle-4.10.2/lib/plugins/gradle-version-control-4.10.2.jar" />
+                  <option value="D:/GRADLE/gradle-4.10.2/lib/plugins/gradle-workers-4.10.2.jar" />
+                  <option value="D:/GRADLE/gradle-4.10.2/lib/plugins/ivy-2.2.0.jar" />
+                  <option value="$PROJECT_DIR$/buildSrc/src/main/java" />
+                  <option value="$PROJECT_DIR$/buildSrc/src/main/groovy" />
+                </list>
+              </option>
+            </ExternalProjectBuildClasspathPojo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1376" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="co.com.test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="co.com.test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="co.com.testGit1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="co.com.test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="co.com.testGit1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="co.com.test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="co.com.testGit1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="org.jetbrains.plugins.gradle.projectView.GradleTreeStructureProvider$GradleSourceSetDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="badf256d-455a-4bef-9322-e874912bc22b" name="Default" comment="" />
+      <created>1570991365038</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570991365038</updated>
+      <workItem from="1570991367983" duration="1412000" />
+      <workItem from="1571058527251" duration="961000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2373000" />
+  </component>
+  <component name="TodoView" selected-index="2">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1376" height="744" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30015197" sideWeight="0.49346405" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.50653595" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+</project>
